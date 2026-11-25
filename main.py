@@ -38,14 +38,29 @@ advice to go drink water buys time, and the turn redefines the
 wait: it was never thinking, it was lost — and the watcher who
 waited is lost too. The joke lands on the shared helplessness
 of watching a spinner, not on the agent's behaviour.
+
+Revision (round 3): a fresh tip on the most hated loading
+screen of all — the bar frozen at 99%. The setup states the
+obvious lie every developer has believed: 99% means almost
+done. The turn gives the bar a personality and a motive: it
+gave up counting hours ago and is now just vibing, which is
+funnier than any crash because it is wilful, not broken.
+Then the advice — "Do not restart it" — is the exact wrong
+thing a stressed developer wants to hear, and the closer
+lands the second turn: the bar "knows what it did, and it is
+not sorry". The bar is not a victim of the bug, it is the
+villain, and it is unrepentant. The humour comes from
+anthropomorphising the progress bar itself, not from coffee,
+deadlines or compile jokes, and every sentence does one job
+(lie, motive, warning, verdict).
 """
 
 import os
 
 ENTRY = (
-    "Tip: The build is not stuck, it is thinking. Go drink water. "
-    "If it is still thinking when you get back, it was never "
-    "thinking \u2014 it was lost, and now so are you."
+    "Tip: The loading bar at 99% is not almost done. It gave "
+    "up counting hours ago and is now just vibing. Do not "
+    "restart it \u2014 it knows what it did, and it is not sorry."
 )
 
 
